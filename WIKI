@@ -1,0 +1,42 @@
+Computational Techniques in Biomedical Engineering
+
+This wiki page provides comprehensive details and step-by-step explanations of the Python code used in the project "Practice 1: Computational Techniques in Biomedicine".
+
+The project contains four main computational exercises:
+
+Circle Metrics Calculation
+Time Conversion
+Number Parity Determination
+Leap Year Identification
+
+1. Circle Metrics Calculation
+This section of the code calculates the area and perimeter (circumference) of a circle given its radius.
+
+The formulas used for these calculations are:
+
+Area: π * r²
+Perimeter (Circumference): 2 * π * r
+Here is the Python code used:
+
+
+2. Time Conversion
+The next section of the code converts a given number of days into equivalent hours, minutes, and seconds.
+
+The formulas used are:
+
+Hours: days * 24
+Minutes: hours * 60
+Seconds: minutes * 60
+The Python code is:
+
+3. Number Parity Determination
+This part of the code determines if a provided integer number is even or odd.
+It is even if it is divisible by 2
+
+4. Leap Year Identification
+The last section identifies whether a given year is a leap year or not. A year is considered a leap year if it is divisible by 4, except for end-of-century years, which must be divisible by 400 to be leap years.
+
+
+These exercises demonstrate basic computational techniques using Python, which is an essential skill for Biomedical Engineering. Remember, mastering these basics will be a stepping stone towards more complex computational problem-solving within the field of biomedicine.
+
+Happy coding!
